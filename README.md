@@ -13,7 +13,6 @@ sudo apt install cmake
 ## How to build
 
 ```bash
-tar xvf ShieldAI.tar
 cd ShieldAI
 mkdir build
 cd build
